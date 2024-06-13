@@ -10,17 +10,15 @@ Throughout my career, I have worked on a variety of projects, from agile startup
 
 When I'm not coding, I enjoys exploring new technologies, reading about the latest web development trends, and sharing my knowledge to my team members.
 
-Technical Skills:
+## Frontend 
 
-## Frontend: 
+React, Redux, RTK Query, Jest, RTL(React Testing Library), JavaScript (ES6+), HTML5, CSS3, Sass, Bootstrap
 
-React, Redux, RTK Query,Jest, RTL(React Testing Library), JavaScript (ES6+), HTML5, CSS3, Sass, Bootstrap
-
-## Backend: 
+## Backend
 
 .NET, C#, ASP.NET Core, Entity Framework, NUnit
 
-## Databases: 
+## Databases
 
 SQL Server, MongoDB
 
