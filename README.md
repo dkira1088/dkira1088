@@ -12,7 +12,7 @@ When I'm not coding, I enjoys exploring new technologies, reading about the late
 
 ## Frontend 
 
-React, Redux, RTK Query, Jest, RTL(React Testing Library), JavaScript (ES6+), HTML5, CSS3, Sass, Bootstrap
+React, Redux, RTK Query, Jest, RTL(React Testing Library), JavaScript (ES6+), HTML5, CSS3, Sass
 
 ## Backend
 
@@ -24,7 +24,7 @@ SQL Server, MongoDB
 
 ## Tools and Methodologies: 
 
-Git, Docker, Azure CI/CD, TDD, Agile/Scrum
+Git, Azure CI/CD, TDD, Agile/Scrum
 
 ## Languages and Tools
 
